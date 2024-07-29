@@ -17,7 +17,7 @@ I have a passion for learning new things and changing my horizon.
 
 * 💼 Toolbox
 
-  <img src="https://worldvectorlogo.com/logo/logo-javascript" alt="JavaScript Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/css-3" alt="CSS Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/html5-2" alt="HTML Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/react-2" alt="React Logo" width="50" height="50"/> <img scr="https://worldvectorlogo.com/logo/accessibility" alt="Accessibility Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/wordpress-icon-1" alt="WordPress Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img scr="https://cdn.worldvectorlogo.com/logos/accessibility.svg" alt="Accessibility Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="WordPress Logo" width="50" height="50"/> 
   
 
 
